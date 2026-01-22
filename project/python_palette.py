@@ -37,6 +37,7 @@ def is_lineup_ready(performers):
     Returns:
         True if there are performers, False if empty
     """
+    # TODO: Use truthiness to check if performers list is non-empty
     pass
 
 
